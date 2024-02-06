@@ -1,4 +1,6 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Vitor Takeshi but you can call me just Takeshi!
+# 👋 Opa! Bem vindo ao meu perfil do GitHub.
+## Meu nome é Vitor Takeshi, mas pode me chamar só de Vitor ou só de Takeshi.!
 
- - I'm currently studying at UFABC trying to get my degree on Computer Science :sweat_smile:
+ - Eu sou estudante da UFABC, cursando Ciência da Computação 😁
+ - Estou em busca do meu primeiro emprego na área de tecnologia 🔍
+ - Gostei de aprender HTML, JavaScript, CSS e agora estou entrando nos estudos em Python 🤯
